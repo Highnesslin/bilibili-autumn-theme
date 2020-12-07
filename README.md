@@ -56,4 +56,4 @@ function setImgStyle(offsetRatio, direction = 'left') {
 
 ## 最终效果
 
-![](./preview/bilibili.gif)
+![如果图片无法预览，可把项目 clone 下来在本地运行](./preview/bilibili.gif)
